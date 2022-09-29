@@ -782,7 +782,7 @@ body {
                   @media (max-width: 600px) {
                     #heading{
                       width: 70px;
-                      margin-top: 10px;
+                      margin-top: 3px;
                       margin-right: 35px;
                     }
                   #heading a{
@@ -897,10 +897,6 @@ body {
                     .card-section{
                       display: flex;
                       flex-direction: column;
-                    }
-                    .date {
-                      text-align: center;
-                        margin: 10px 125px;
                     }
                     
                     /* footer */
