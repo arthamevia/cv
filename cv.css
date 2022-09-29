@@ -898,6 +898,10 @@ body {
                       display: flex;
                       flex-direction: column;
                     }
+                    .date {
+                      text-align: center;
+                        margin: 10px 125px;
+                    }
                     
                     /* footer */
                     .social-icons a {
